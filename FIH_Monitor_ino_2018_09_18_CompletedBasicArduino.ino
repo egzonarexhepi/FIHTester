@@ -1,4 +1,7 @@
-
+/**
+@egzonarexhepi
+State Change Detection
+*/
 
 // this constant won't change:
 const int monoColorPin = 2;    // the pin that gets the MonoColor State
